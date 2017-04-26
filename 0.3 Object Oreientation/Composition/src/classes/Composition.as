@@ -1,0 +1,1 @@
+﻿package classes{	import flash.display.MovieClip;		public class Wall extends MovieClip	{		public function Wall()		{			build( 10, 5 );		}						public function build( w:uint, h:uint ):void		{			for( var i:uint = 0; i < h; i++ )			{				for( var j:uint = 0; j < w; j++ )				{					var brick:Brick = new Brick();				}			}		}	}}

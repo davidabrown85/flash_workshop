@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/test
+END
+BaseDemo.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/test/BaseDemo.as
+END
+Panel.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/test/Panel.as
+END
+Slide.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/test/Slide.as
+END
+SimpleView.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/test/SimpleView.as
+END
+Button.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/test/Button.as
+END

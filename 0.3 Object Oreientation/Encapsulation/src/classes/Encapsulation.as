@@ -1,0 +1,1 @@
+﻿package classes{	import flash.display.MovieClip;	import flash.events.Event;	public class Encapsulation extends MovieClip	{		public function Encapsulation()		{			var new_person:Person = new Person();						new_person.age = -1;						trace( "new_person.age: "+new_person.age );		}	}}

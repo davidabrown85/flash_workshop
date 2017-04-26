@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/cameras
+END
+Camera3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/cameras/Camera3D.as
+END
+HoverCamera3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/cameras/HoverCamera3D.as
+END
+SpringCam.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/cameras/SpringCam.as
+END
+TargetCamera3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/cameras/TargetCamera3D.as
+END

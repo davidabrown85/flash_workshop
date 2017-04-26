@@ -1,0 +1,1 @@
+﻿package classes.enemy{	import flash.display.MovieClip;	public class BigBob extends Enemy	{		public function BigBob()		{			//speed = 2;		}	}}

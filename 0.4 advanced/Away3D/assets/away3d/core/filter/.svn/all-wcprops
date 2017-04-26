@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/filter
+END
+MaxPolyFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/filter/MaxPolyFilter.as
+END
+FogFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/filter/FogFilter.as
+END
+ZDepthFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/filter/ZDepthFilter.as
+END
+AnotherRivalFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/filter/AnotherRivalFilter.as
+END
+IPrimitiveFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/filter/IPrimitiveFilter.as
+END
+IPrimitiveQuadrantFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/filter/IPrimitiveQuadrantFilter.as
+END
+ZSortFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/filter/ZSortFilter.as
+END
+QuadrantRiddleFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/filter/QuadrantRiddleFilter.as
+END

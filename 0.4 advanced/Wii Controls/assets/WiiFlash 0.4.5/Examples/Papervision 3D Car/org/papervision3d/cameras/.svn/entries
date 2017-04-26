@@ -1,0 +1,52 @@
+8
+
+dir
+51
+http://svn1.cvsdude.com/osflash/papervision3d/as3/trunk/src/org/papervision3d/cameras
+http://svn1.cvsdude.com/osflash/papervision3d
+
+
+
+2007-02-12T21:37:15.539918Z
+37
+culloa
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23c187b3-7a20-0410-8d8a-25c4506d2a29
+
+Camera3D.as
+file
+
+
+
+
+2007-02-12T22:32:51.864028Z
+ab78448244ed2b19088c7e791100c7bf
+2007-02-12T21:37:15.539918Z
+37
+culloa
+
+FreeCamera3D.as
+file
+
+
+
+
+2007-02-12T22:32:52.098025Z
+a17de1c8ff4bc6667af9b00bb0df83f9
+2007-02-12T21:37:15.539918Z
+37
+culloa
+

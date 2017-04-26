@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/loaders/data
+END
+BoneData.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/loaders/data/BoneData.as
+END
+ObjectData.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/loaders/data/ObjectData.as
+END
+ChannelData.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/loaders/data/ChannelData.as
+END
+GeometryData.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/loaders/data/GeometryData.as
+END
+MeshMaterialData.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/loaders/data/MeshMaterialData.as
+END
+MeshData.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/loaders/data/MeshData.as
+END
+MaterialData.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/loaders/data/MaterialData.as
+END
+FaceData.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/loaders/data/FaceData.as
+END
+AnimationData.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/loaders/data/AnimationData.as
+END
+AnimationDataType.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/loaders/data/AnimationDataType.as
+END
+ContainerData.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/loaders/data/ContainerData.as
+END

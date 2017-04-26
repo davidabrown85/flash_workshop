@@ -1,0 +1,52 @@
+8
+
+dir
+51
+http://svn1.cvsdude.com/osflash/papervision3d/as3/trunk/src/org/papervision3d/scenes
+http://svn1.cvsdude.com/osflash/papervision3d
+
+
+
+2007-02-12T21:37:15.539918Z
+37
+culloa
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23c187b3-7a20-0410-8d8a-25c4506d2a29
+
+MovieScene3D.as
+file
+
+
+
+
+2007-02-12T22:32:46.840893Z
+01b7c9e2649a5cc44650bdce7415308c
+2007-02-12T21:37:15.539918Z
+37
+culloa
+
+Scene3D.as
+file
+
+
+
+
+2007-02-12T22:32:46.950091Z
+97bca3e6b14c9735a45190ba38208bf7
+2007-02-12T21:37:15.539918Z
+37
+culloa
+

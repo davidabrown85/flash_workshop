@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/box2dflash/!svn/ver/155/Source/Box2D/Collision/Shapes
+END
+b2PolyLine.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/box2dflash/!svn/ver/114/Source/Box2D/Collision/Shapes/b2PolyLine.as
+END
+b2MassData.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/box2dflash/!svn/ver/63/Source/Box2D/Collision/Shapes/b2MassData.as
+END
+b2Shape.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/box2dflash/!svn/ver/141/Source/Box2D/Collision/Shapes/b2Shape.as
+END
+b2CircleShape.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/box2dflash/!svn/ver/141/Source/Box2D/Collision/Shapes/b2CircleShape.as
+END
+b2PolygonShape.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/box2dflash/!svn/ver/155/Source/Box2D/Collision/Shapes/b2PolygonShape.as
+END

@@ -1,0 +1,1 @@
+﻿package classes{	public class TransitionConstants	{		public static const TRANSITION_LEFT:String = "transition_left";		public static const TRANSITION_RIGHT:String = "transition_right";		public static const TRANSITION_INSTANT:String = "transition_instant";	}}

@@ -1,0 +1,1 @@
+﻿package classes{	import flash.display.MovieClip;		public class Person extends MovieClip	{		public function Brick():void		{					}	}}

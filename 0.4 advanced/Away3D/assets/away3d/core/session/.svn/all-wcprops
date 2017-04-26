@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/session
+END
+BitmapSession.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/session/BitmapSession.as
+END
+AbstractSession.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/session/AbstractSession.as
+END
+SpriteSession.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/session/SpriteSession.as
+END

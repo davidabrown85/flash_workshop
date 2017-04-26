@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/materials/utils
+END
+HeightMapGenerator.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/materials/utils/HeightMapGenerator.as
+END
+NormalMapGenerator.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/materials/utils/NormalMapGenerator.as
+END
+SimpleShadow.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/materials/utils/SimpleShadow.as
+END
+TangentToObjectMapper.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/materials/utils/TangentToObjectMapper.as
+END
+WaterMap.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/materials/utils/WaterMap.as
+END
+LightPrebaker.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/materials/utils/LightPrebaker.as
+END
+Projector.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/materials/utils/Projector.as
+END
+NormalMapType.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/materials/utils/NormalMapType.as
+END
+HeightMapDataChannel.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/materials/utils/HeightMapDataChannel.as
+END
+NormalBumpMaker.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/materials/utils/NormalBumpMaker.as
+END

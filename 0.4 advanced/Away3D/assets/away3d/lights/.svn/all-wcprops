@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/lights
+END
+AmbientLight3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/lights/AmbientLight3D.as
+END
+PointLight3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/lights/PointLight3D.as
+END
+AbstractLight.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/lights/AbstractLight.as
+END
+DirectionalLight3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/lights/DirectionalLight3D.as
+END

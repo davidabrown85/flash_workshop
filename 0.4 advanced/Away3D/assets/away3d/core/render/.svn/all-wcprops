@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/render
+END
+QuadrantTreeNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/render/QuadrantTreeNode.as
+END
+QuadrantRenderer.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/render/QuadrantRenderer.as
+END
+Renderer.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/render/Renderer.as
+END
+BasicRenderer.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/render/BasicRenderer.as
+END
+BSPRenderer.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/core/render/BSPRenderer.as
+END

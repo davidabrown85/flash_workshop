@@ -1,0 +1,15 @@
+<xml_root>
+	
+	<first_node>			
+		<node_child num="round"> Apple </node_child>	
+		<node_child num="long"> Bannana </node_child>	
+		<node_child num="round"> Orange </node_child>		
+	</first_node>
+	
+	<second_node>			
+		<node_child num="fast"> Dog </node_child>	
+		<node_child num="faster"> Cat </node_child>	
+		<node_child num="round"> Hamster </node_child>		
+	</second_node>
+	
+</xml_root>

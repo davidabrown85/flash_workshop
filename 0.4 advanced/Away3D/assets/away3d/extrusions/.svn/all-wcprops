@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/extrusions
+END
+PathExtrusion.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/extrusions/PathExtrusion.as
+END
+LatheExtrusion.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/extrusions/LatheExtrusion.as
+END
+PathDuplicator.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/extrusions/PathDuplicator.as
+END
+TextExtrusion.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/extrusions/TextExtrusion.as
+END
+SkinExtrude.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/extrusions/SkinExtrude.as
+END
+ElevationModifier.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/extrusions/ElevationModifier.as
+END
+Elevation.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/extrusions/Elevation.as
+END
+ElevationReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/extrusions/ElevationReader.as
+END
+CollisionMap.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/extrusions/CollisionMap.as
+END
+LinearExtrusion.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2835/tags/3.6.0%20lib/src/away3d/extrusions/LinearExtrusion.as
+END

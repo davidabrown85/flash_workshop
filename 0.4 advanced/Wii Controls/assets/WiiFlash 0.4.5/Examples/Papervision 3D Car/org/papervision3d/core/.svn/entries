@@ -1,0 +1,73 @@
+8
+
+dir
+51
+http://svn1.cvsdude.com/osflash/papervision3d/as3/trunk/src/org/papervision3d/core
+http://svn1.cvsdude.com/osflash/papervision3d
+
+
+
+2007-02-13T17:33:49.039027Z
+39
+culloa
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23c187b3-7a20-0410-8d8a-25c4506d2a29
+
+utils
+dir
+
+Number3D.as
+file
+
+
+
+
+2007-02-01T23:34:34.449312Z
+4d34d6dcc8ccc1b0453de7d1a6cbd893
+2007-02-01T17:48:04.790995Z
+23
+culloa
+
+proto
+dir
+
+NumberUV.as
+file
+
+
+
+
+2007-02-01T23:34:34.480484Z
+1dfedf52f252e5427c0f6b09e6b27a5b
+2007-02-01T17:48:04.790995Z
+23
+culloa
+
+geom
+dir
+
+Matrix3D.as
+file
+
+
+
+
+2007-02-12T22:32:51.021639Z
+9509816a35f4d5f71164660c0a8995d6
+2007-02-12T21:37:15.539918Z
+37
+culloa
+

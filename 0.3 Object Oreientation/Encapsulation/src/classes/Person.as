@@ -1,0 +1,1 @@
+﻿package classes{	import flash.display.MovieClip;			public class Person extends MovieClip	{		private var _age:Number;		public function Person():void		{					}						public function get age():Number		{			return _age;		}				public function set age( val:Number ):void		{			if ( val < 0 )			{				val = 0;			}						_age = val;		}	}}

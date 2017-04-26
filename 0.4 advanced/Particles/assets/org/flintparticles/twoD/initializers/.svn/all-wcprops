@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/343/trunk/src/org/flintparticles/twoD/initializers
+END
+RotateVelocity.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/343/trunk/src/org/flintparticles/twoD/initializers/RotateVelocity.as
+END
+Velocity.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/343/trunk/src/org/flintparticles/twoD/initializers/Velocity.as
+END
+RotationAbsolute.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/343/trunk/src/org/flintparticles/twoD/initializers/RotationAbsolute.as
+END
+Rotation.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/343/trunk/src/org/flintparticles/twoD/initializers/Rotation.as
+END
+PositionAbsolute.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/343/trunk/src/org/flintparticles/twoD/initializers/PositionAbsolute.as
+END
+Position.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/343/trunk/src/org/flintparticles/twoD/initializers/Position.as
+END
+ScaleAllInit.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/343/trunk/src/org/flintparticles/twoD/initializers/ScaleAllInit.as
+END
+ScaleAllsInit.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/343/trunk/src/org/flintparticles/twoD/initializers/ScaleAllsInit.as
+END

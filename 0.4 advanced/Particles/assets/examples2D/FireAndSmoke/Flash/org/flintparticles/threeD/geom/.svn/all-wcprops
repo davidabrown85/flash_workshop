@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/344/trunk/src/org/flintparticles/threeD/geom
+END
+Quaternion.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/344/trunk/src/org/flintparticles/threeD/geom/Quaternion.as
+END
+Vector3DUtils.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/343/trunk/src/org/flintparticles/threeD/geom/Vector3DUtils.as
+END
+Matrix3DUtils.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/343/trunk/src/org/flintparticles/threeD/geom/Matrix3DUtils.as
+END

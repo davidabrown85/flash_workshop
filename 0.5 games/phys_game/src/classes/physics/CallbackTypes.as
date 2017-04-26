@@ -1,0 +1,1 @@
+﻿package classes.physics {		public class CallbackTypes	{        public static const PLAYER:uint = 1;		        public static const GROUND:uint = 2;		        public static const COIN:uint = 3;        public static const ENEMY:uint = 4;        public static const GOAL:uint = 5;	}}
